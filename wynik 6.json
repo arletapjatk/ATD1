@@ -1,0 +1,19 @@
+{ _id: ObjectId("60aada6dec8afbd150197e5c"),
+  sex: 'Male',
+  first_name: 'Arleta',
+  last_name: 'Bujno',
+  job: 'Business Analyst',
+  email: 'arleta.bujno@gmail.com',
+  location: 
+   { city: 'Warsaw',
+     address: { streetname: 'Pawinskiego', streetnumber: '1' } },
+  description: 'opis',
+  height: '165.00',
+  weight: '60.00',
+  birth_date: '1995-01-14T04:00:03Z',
+  nationality: 'Poland',
+  credit: 
+   [ { type: 'switch',
+       number: '1159888356100098699',
+       currency: 'PLN',
+       balance: '8817.06' } ] }
